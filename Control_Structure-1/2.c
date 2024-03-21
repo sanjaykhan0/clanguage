@@ -1,5 +1,5 @@
 #include<stdio.h>
-main (){
+gitmain (){
     int a,b;
     a=8;
     b=3;
