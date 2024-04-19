@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/ADMIN/Desktop/sanjaykhan_c/clanguage/File Handling",
+      "program": "c:/Users/ADMIN/Desktop/sanjaykhan_c/clanguage/File Handling/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
